@@ -1,0 +1,10 @@
+target/
+project/target/
+src/main/obj/
+
+*.class
+*.so
+*.apk
+*.o
+*.lo
+*.la
